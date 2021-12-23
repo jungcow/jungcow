@@ -1,8 +1,9 @@
 |Github stats|42 Seoul stats|
 :-----------:|:------------:
-|![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=true&theme=radical)|[![jungwkim's 42 stats](https://badge42.herokuapp.com/api/stats/jungwkim?privacyName=true)](https://github.com/JaeSeoKim/badge42)|
+|![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=false&theme=default&hide=stars)|[![jungwkim's 42 stats](https://badge42.herokuapp.com/api/stats/jungwkim?privacyName=true)](https://github.com/JaeSeoKim/badge42)|
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungcow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungcow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jungcow/jungcow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
