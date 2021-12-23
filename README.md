@@ -1,8 +1,10 @@
 ![temple](https://user-images.githubusercontent.com/60311340/147248458-eb0099cf-8aa3-4bc8-a144-7e1a9d74d6fc.gif)
 ---
+#### stats)
 ![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=false&theme=default&hide=stars)
 [![jungwkim's 42 stats](https://badge42.herokuapp.com/api/stats/jungwkim?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
+#### Top Langs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
