@@ -1,4 +1,7 @@
-### Hi there 👋
+
+## Stats
+![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=true&theme=radical)
+
 
 <!--
 **jungcow/jungcow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
