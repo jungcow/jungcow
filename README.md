@@ -1,6 +1,6 @@
-|Github stats|42 Seoul stats|
-:-----------:|:------------:
-|![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=false&theme=default&hide=stars)|[![jungwkim's 42 stats](https://badge42.herokuapp.com/api/stats/jungwkim?privacyName=true)](https://github.com/JaeSeoKim/badge42)|
+#### stats)
+![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=false&theme=default&hide=stars)
+[![jungwkim's 42 stats](https://badge42.herokuapp.com/api/stats/jungwkim?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 
 
