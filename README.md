@@ -1,6 +1,9 @@
 
 ## Stats
-![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=true&theme=radical)
+|Github stats|42 Seoul stats|
+:-----------:|:------------:
+|![jungcow's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungcow&show_icons=true&theme=radical)|[![jungwkim's 42 stats](https://badge42.herokuapp.com/api/stats/jungwkim?privacyName=true)](https://github.com/JaeSeoKim/badge42)|
+
 
 
 <!--
