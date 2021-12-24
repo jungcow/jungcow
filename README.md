@@ -4,9 +4,10 @@
   💻  Skils
 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C/C++-FF9900?logo=cplusplus"/>
-  <img src ="https://img.shields.io/badge/Javascript-F7E017?&style=for-the-badge&logo=javascript&logoColor=로고색상"/>
   <img src="https://img.shields.io/badge/Shell-33CCFF?logo=powershell"/>
+  <img src="https://img.shields.io/badge/C/C++-FF9900?logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white"/>
 </p>
 
 <br />
@@ -15,7 +16,6 @@
 <hr />
 
 [![42seoul](https://img.shields.io/badge/42Seoul-Cadet-white?style=flat&logo=42&)](https://42seoul.kr/seoul42/main/view)
-[![Konkuk university](https://img.shields.io/badge/konkuk-university-Student-white?style=flat)](http://www.konkuk.ac.kr/do/Index.do) 
 ---
 ### stats)
 |Github|42 Seoul|
