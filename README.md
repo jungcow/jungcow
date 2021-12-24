@@ -12,10 +12,15 @@
 
 <br />
 
+<h3 align="center">
+  🧑‍💻  I'm...
+</h3>
+<p align="center">
+  <a href="https://42seoul.kr/seoul42/main/view">
+    <img src="https://img.shields.io/badge/42Seoul-Cadet-white?style=flat&logo=42&" />
+  </a>
+</p>
 
-<hr />
-
-[![42seoul](https://img.shields.io/badge/42Seoul-Cadet-white?style=flat&logo=42&)](https://42seoul.kr/seoul42/main/view)
 ---
 ### stats)
 |Github|42 Seoul|
